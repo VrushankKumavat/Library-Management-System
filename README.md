@@ -9,7 +9,7 @@ This is a full stack application using Spring Boot, Angular and MySQL.
 * User can perform CRUD with books.
 * Uses JWT to authenticate login.
 
-# Database
+### Database
 I have used MySQL database here.
 We must add few records in DB manually before using application however tables would be created once we start spring boot application with the help of hibernate.
 
